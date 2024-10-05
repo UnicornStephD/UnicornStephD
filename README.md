@@ -1,4 +1,4 @@
-## Hello! 👋
+## Hello! 👋 My name is Stephanie
 
 ## About Me:
 I live in Philadelphia, PA, but I am originally from New England. I earned my undergraduate degree from the University of New Hampshire in English and History. After growing up in Western Massachussetts, Southern Maine, and living in Southern New Hampshire during undergrad, I moved to Philadelphia. I worked in Clinical Data Management for about 11 years, managing data for cancer studies. I changed careers a few years back to persue my data and information interests in the english and history. I am a librarian at the Masonic Temple of Pennsylvania. I enjoy reading, spending time with my loved ones, and self-care.
