@@ -6,7 +6,7 @@ I live in Philadelphia, PA, but I am originally from New England. I earned my un
 ## Fun fact: ⚡
 If I could, I would be traveling and exploring all the time. 
 
-## Getty Thesaurus of Geographic Names (TGN)
+## Getty Thesaurus of Geographic Names [TGN](https://www.getty.edu/research/tools/vocabularies/tgn/index.html)
 ### 1. Why do you find this dataset interesting?
 I find the Getty Thesaurus of Geographic Names (TGN) interesting because it's such a comprehensive resource that covers both historical and modern geographic names. It was collected to help catalog and describe cultural heritage objects with geographic connections, like art, architecture, and historical records. What makes it so useful is that it standardizes geographic names, which is helpful for researchers, catalogers, and curators when they're dealing with places with different names over time or in different languages. It's especially valuable for fields like art history, archaeology, and digital humanities because it can be used for things like geo-tagging or mapping cultural objects, making it easier to search and organize information.
 
