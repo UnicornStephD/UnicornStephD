@@ -140,4 +140,9 @@ nav a {
   transform: scale(1.02);
 }
 
-
+.photo-credit {
+  font-size: 0.9rem;
+  color: #777;
+  margin-top: 0.5rem;
+  text-align: left; /* or center if you'd prefer */
+}
