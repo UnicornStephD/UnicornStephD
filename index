@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Home | SMSD</title>
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400&family=Playfair+Display:wght@600&display=swap" rel="stylesheet">
+
+  <!-- External CSS -->
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <!-- Sidebar Navigation -->
+  <div class="sidebar">
+    <div class="logo">SMSD</div>
+    <nav>
+      <a href="index.html" class="active">Home</a>
+      <a href="about.html">About</a>
+      <a href="resume.html">Resume</a>
+      <a href="projects.html">Projects</a>
+      <a href="associations.html">Associations</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </div>
+
+  <!-- Main Content -->
+  <div class="container">
+    <h2>Personal Philosophy</h2>
+    <p>“Love talked about is easy to ignore. Love in action is irresistible.”<br />
+    <span class="caption">— Robbye Jo Quinter</span></p>
+
+    <h2>Professional Philosophy</h2>
+    <p>I believe that accessible, well-organized information has the power to make a lasting impact. I enjoy working to preserve cultural and historical records with care, clarity, and respect, helping to keep them meaningful for the future. With a thoughtful approach grounded in precision, creativity, and kindness, I see each project as a chance to support others by making knowledge easier to find and appreciate.</p>
+
+    <!-- Profile Photo at Bottom -->
+    <img src="profile.jpg" alt="Stephanie Desjardins" class="profile-photo" />
+    
+    <p class="photo-credit"><em>Photo credit: Eric Allen Smith, October 22, 2016 — High Line, New York City.</em></p>
+  </div>
+
+  <!-- Footer -->
+  <footer>
+    © 2025 Stephanie Desjardins. Love in Action.
+  </footer>
+</body>
+</html>
