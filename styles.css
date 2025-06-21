@@ -117,4 +117,27 @@ footer {
   }
 }
 
+/* === Global Box Sizing Reset === */
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+/* === Max Width Container for Wide Screens === */
+.container {
+  max-width: 960px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* === Optional: Smooth Transitions for Images or Links === */
+.profile-photo,
+nav a {
+  transition: all 0.3s ease-in-out;
+}
+
+/* === Optional: Slight Hover Zoom on Profile Photo === */
+.profile-photo:hover {
+  transform: scale(1.02);
+}
+
 
