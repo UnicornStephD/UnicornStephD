@@ -155,3 +155,14 @@ nav a {
   font-style: italic;
 }
 
+ul {
+  padding-left: 1.2rem;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+}
+
+ul li {
+  margin-bottom: 1rem;
+  line-height: 1.6;
+}
+
