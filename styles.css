@@ -72,17 +72,15 @@ p {
 
 /* === Footer === */
 footer {
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  height: 60px;
+  width: 100%;
   text-align: center;
   padding: 1rem;
   background-color: #f0f4f9;
   font-size: 0.9rem;
   color: #666;
+  margin-top: 2rem;
 }
+
 
 /* === Mobile Responsiveness === */
 @media (max-width: 768px) {
