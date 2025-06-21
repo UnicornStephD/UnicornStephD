@@ -146,3 +146,12 @@ nav a {
   margin-top: 0.5rem;
   text-align: left; /* or center if you'd prefer */
 }
+
+.caption {
+  display: block;
+  font-size: 0.95rem;
+  color: #777;
+  margin-top: 0.25rem;
+  font-style: italic;
+}
+
