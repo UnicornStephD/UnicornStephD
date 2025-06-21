@@ -60,6 +60,16 @@ p {
   margin-top: 1rem;
 }
 
+/* === Images === */
+.profile-photo {
+  max-width: 250px;
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin: 2rem 0 0;
+  display: block;
+}
+
 /* === Footer === */
 footer {
   position: absolute;
